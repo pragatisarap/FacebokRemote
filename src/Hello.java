@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("my initial commit")
 		System.out.println("my first commit")
 		System.out.println("my first commit")
+		System.out.println("mahgfhdf");
 	}
 
 }
